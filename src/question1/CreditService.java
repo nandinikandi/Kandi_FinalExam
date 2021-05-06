@@ -7,7 +7,7 @@ package question1;
 
 /**
  *
- * @author S541088
+ * @author Nandini Kandi
  */
 public abstract class CreditService extends UserService{
 //	public User checkUserCredit(){

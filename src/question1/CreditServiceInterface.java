@@ -7,7 +7,7 @@ package question1;
 
 /**
  *
- * @author S541088
+ * @author Nandini Kandi
  */
 
 public interface CreditServiceInterface{
