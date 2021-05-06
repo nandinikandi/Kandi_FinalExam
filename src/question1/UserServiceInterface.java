@@ -9,8 +9,7 @@ package question1;
  *
  * @author S541088
  */
-
-public interface CreditServiceInterface{
-	public User checkCreditUser1(); //these methods are public by default.
+public  interface UserServiceInterface{
+	public User createUser1();
+	public User updateUser1();
 }
-
